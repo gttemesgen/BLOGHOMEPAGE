@@ -1,0 +1,22 @@
+.section {
+
+    text-decoration: none !important;
+    list-style-type: none;
+    justify-content: space-around;
+    padding: 10px;
+
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: burlywood;
+    grid-area: footer;
+    padding: 20px;
+    border: 2px solid black;
+    justify-content: space-between;
+}
